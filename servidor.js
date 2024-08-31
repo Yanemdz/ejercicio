@@ -1,4 +1,4 @@
-// index.js
+
 const express = require('express');
 const app = express();
 const route1 = require('./ruta1');

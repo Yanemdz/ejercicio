@@ -1,4 +1,4 @@
-// routes/route1.js
+
 const express = require('express');
 const router = express.Router();
 const logger = require('./función');
